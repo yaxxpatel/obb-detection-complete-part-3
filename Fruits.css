@@ -1,0 +1,12 @@
+body
+{
+    background-size: cover;
+}
+
+
+img
+{
+    width: 800px;
+    height: 580px;
+    box-shadow: 10px;
+}
